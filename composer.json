@@ -1,5 +1,6 @@
 {
     "name": "diedaidai/laravle-bos",
+    "description": "A Flysystem Baidu Bos Wrapper for Laravel",
     "license": "MIT",
     "authors": [
         {
@@ -14,8 +15,8 @@
     "autoload": {
         "psr-4": {
             "Diedaidai\\LaravelBos\\": "src/",
-            "files": ["src/BaiduBce.phar"]
-        }
+        },
+        "files": ["src/BaiduBce.phar"]
     },
     "extra": {
         "laravel": {
