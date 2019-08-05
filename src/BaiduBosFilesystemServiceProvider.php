@@ -2,8 +2,6 @@
 
 use Storage;
 use BaiduBce\Services\Bos\BosClient;
-use Diedaidai\LaravelBos\BaiduBosAdapter;
-use Diedaidai\LaravelBos\PutFilePlugin;
 use League\Flysystem\Filesystem;
 use Illuminate\Support\ServiceProvider;
 
