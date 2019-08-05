@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Diedaidai\\LaravelBos\\": "src/",
+            "Diedaidai\\LaravelBos\\": "src/"
         },
         "files": ["src/BaiduBce.phar"]
     },
