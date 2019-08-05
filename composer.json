@@ -16,5 +16,12 @@
             "Diedaidai\\LaravelBos\\": "src/",
             "files": ["src/BaiduBce.phar"]
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Diedaidai\\LaravelBos\\BaiduBosFilesystemServiceProvider"
+            ]
+        }
     }
 }
